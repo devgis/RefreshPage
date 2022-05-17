@@ -1,0 +1,7 @@
+D:\Work\2016\提示\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+D:\Work\2016\提示\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+D:\Work\2016\提示\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\Work\2016\提示\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\Work\2016\提示\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+D:\Work\2016\提示\WindowsApplication4\obj\Debug\WindowsApplication4.Properties.Resources.resources
+D:\Work\2016\提示\WindowsApplication4\obj\Debug\WindowsApplication4.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+E:\Test\Test\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+E:\Test\Test\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+E:\Test\Test\WindowsApplication4\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+E:\Test\Test\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+E:\Test\Test\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Properties.Resources.resources
+E:\Test\Test\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.csproj.GenerateResource.Cache
+E:\Test\Test\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+E:\Test\Test\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
